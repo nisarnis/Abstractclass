@@ -8,7 +8,9 @@ public abstract  class Bike {
 		System.out.println("Bike Color Is:Black");
 
 	}
-	
-	
+//afila created	
+	public void oceans() {
+		System.out.println("arabian,pacific");
+	}
 abstract void speed();
 }
